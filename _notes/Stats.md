@@ -10,11 +10,15 @@
 | shadow         |     2 |
 | decapus        |     1 |
 | szárnyas kígyó |     1 |
+| Pterafolk      |     1 |
+| ghoul          |     1 |
+
+
 
 ## Damage Record
-22
+24
 - nat20
-- rapier + L1 Sneak Attack
+- psychic blade + L3 Sneak Attack
 
 ## Progression
 unshackled ---×- ----- perfect AI

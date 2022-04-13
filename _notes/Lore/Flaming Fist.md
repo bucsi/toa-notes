@@ -1,1 +1,1 @@
-Bladur's Gate városi őrök / zsoldosok
+[[Baldur's Gate]] városi őrök / zsoldosok
