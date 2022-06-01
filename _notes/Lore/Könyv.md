@@ -1,3 +1,3 @@
 - 7 fejezetes, minden fejezet Raz *Valami*ről szól
-- Creepy élőholt Yuan-ti elmondja, hogy az 5. fejezet [[Raz X]]-ről szól, aki Ubtau nagy nekromantája volt, mindenkit felélesztett, aki a szigeten halt meg
+- Creepy élőholt Yuan-ti elmondja, hogy az 5. fejezet [[Raz Nsi]]-ről szól, aki Ubtau nagy nekromantája volt, mindenkit felélesztett, aki a szigeten halt meg
 - 

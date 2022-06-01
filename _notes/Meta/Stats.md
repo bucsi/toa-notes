@@ -22,4 +22,4 @@
 - psychic blade + L3 Sneak Attack
 
 ## Progression
-unshackled ---×- ----- perfect AI
+unshackled ----× ----- perfect AI
