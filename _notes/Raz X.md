@@ -1,0 +1,3 @@
+- Ubtau nekromantája
+- Háromszöggel van megbélyegezve a homlokán
+- Minden zombija is, ki van rájuk terjesztve az átok, ami rá is
