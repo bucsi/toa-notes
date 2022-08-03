@@ -1,0 +1,1 @@
+Jövendőmondó kroki főpapja

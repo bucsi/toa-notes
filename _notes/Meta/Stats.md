@@ -11,8 +11,9 @@
 | decapus        |     1 |
 | szárnyas kígyó |     1 |
 | Pterafolk      |     1 |
-|lizard          |     1 |
+| lizard         |     1 |
 | ghoul          |     1 |
+| flaming fist   |     1 |
 
 
 
