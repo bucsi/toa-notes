@@ -1,4 +1,0 @@
----
----
-
-Half-orc Cleric (Grad)

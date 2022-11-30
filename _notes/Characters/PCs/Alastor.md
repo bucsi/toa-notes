@@ -1,1 +1,3 @@
-Tiefling Rogue, played by Pez
+# Alastor Percival Belmont II
+
+Tiefling Rogue-Warlock (Pez)
